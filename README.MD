@@ -29,9 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+ > ℹ️ **NOTE:** Este projeto aproveitou o Ebook gerado em outro curso da plataforma [DIO](https://dio.me) e, ao invés de gerar um podcast como seria a proposta inicial, gerei uma leitura do primeiro capítulo do livro utilizando ferramentas de IA.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
