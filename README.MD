@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=".assets/capa so te olho.png"
+    src=".assets/capa.png"
     width="300"
 />
 </p>
