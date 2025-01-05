@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este projeto aproveitou o Ebook gerado em outro curso da plataforma [DIO](https://dio.me) e, ao invés de gerar um podcast como seria a proposta inicial, gerei uma leitura do primeiro capítulo do livro utilizando ferramentas de IA.
+ > ℹ️ **NOTE:** Este projeto aproveitou o [Ebook](https://github.com/cleber-lamartine/prompts-recipe-to-create-a-ebook/blob/main/output/So_te_olho.pdf) gerado em outro curso da plataforma [DIO](https://dio.me) e, ao invés de gerar um podcast como seria a proposta inicial, gerei uma leitura do primeiro capítulo do livro utilizando ferramentas de IA.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
